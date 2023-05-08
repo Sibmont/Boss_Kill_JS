@@ -2,13 +2,13 @@
 Repo para las entregas del curso!
 
 ##Descripción
----
+
 Simple juego de elegir un arma y atacar al enemigo.
 
 Se utilizan:
--Condicionales
--Ciclos
--Funciones
++Condicionales
++Ciclos
++Funciones
 
 ---
 **Curso:** Javascript en Coderhouse
