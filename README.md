@@ -1,15 +1,18 @@
-# Boss_Kill_JS
+# Entrega 2 de Js De Coderhouse
 Repo para las entregas del curso!
 
 ## Descripción
 
-Simple juego de elegir un arma y atacar al enemigo.  
-El usuario recibe un prompt con una lista de objetos que puede elejir, cada uno con sus stats diferentes. Luego comienza el pequeño juego con prompts para saber si golpeaste o no, y la vida del enemigo.
+Simple simulador de las funciones básicas de un E-Commerce  
+El usuario puede ver los items del catálogo, filtrarlos por década como para saber cuáles hay, añadirlos a su carrito y ver el carrito. Todo interactuando con botones.
 
 ## Se utilizan:
 + Condicionales
 + Ciclos
 + Funciones
++ Funciones de orden superior
++ Objetos
++ Arrays
 
 ---
 **Curso:** Javascript en Coderhouse
